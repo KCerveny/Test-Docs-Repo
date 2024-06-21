@@ -1,0 +1,7 @@
+site_name: MKDocs Test Deployment
+nav:
+  - Home: index.md
+  - Setup: howto.md
+theme:
+  name: material
+
