@@ -5,4 +5,15 @@ nav:
   - Setup: howto.md
 theme:
   name: material
+  features:
+    - nagivation.footer
+
+extra:
+  social:
+    - icon: fontawesome/brands/discord
+      link: https://discord.com/invite/fab4bxaAW9
+    - icon: fontawesome/brands/x-twitter
+      link: https://twitter.com/ArrowAir_
+    - icon: fontawesome/brands/github
+      link: https://github.com/Arrow-air
 

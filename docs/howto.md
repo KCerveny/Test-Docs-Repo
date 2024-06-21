@@ -31,7 +31,11 @@ Following the CI tutorial from [MKDocs Material](https://squidfunk.github.io/mkd
 2. Paste in the text from the above linked tutorial.
 3. Commit to the main branch.
 
-## Improvements
+## Quality of Life Improvements
+### Ideas
 - Templates for certain filetypes?
 - Spellcheck in CI? Style guidelines enforcement?
     - [Spellcheck Action](https://github.com/marketplace/actions/github-spellcheck-action)
+
+### Implemented
+- [Set up documentation footer](https://squidfunk.github.io/mkdocs-material/setup/setting-up-the-footer/)
