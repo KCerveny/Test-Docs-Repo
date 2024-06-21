@@ -1,4 +1,5 @@
 site_name: MKDocs Test Deployment
+# site_url: https://KCerveny.github.io/Test-Docs-Repo/
 nav:
   - Home: index.md
   - Setup: howto.md
