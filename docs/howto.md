@@ -38,7 +38,14 @@ Following the CI tutorial from [MKDocs Material](https://squidfunk.github.io/mkd
     - [Spellcheck Action](https://github.com/marketplace/actions/github-spellcheck-action)
 
 ### Implemented
+- [Set up header preferences](https://squidfunk.github.io/mkdocs-material/setup/setting-up-the-header/)
+    - Auto-hide on scroll
+    - 
 - [Set up documentation footer](https://squidfunk.github.io/mkdocs-material/setup/setting-up-the-footer/)
     - Added socials
 - [Changed Logo, Icons](https://squidfunk.github.io/mkdocs-material/setup/changing-the-logo-and-icons/)
     - Added custom logo
+    - Added site favicon
+- [Changed the colors](https://squidfunk.github.io/mkdocs-material/setup/changing-the-colors/#color-palette-toggle)
+    - Dark/light mode toggle
+    - Update default coloring

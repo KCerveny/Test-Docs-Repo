@@ -6,8 +6,22 @@ nav:
 theme:
   name: material
   logo: assets/arrow_wordmark_gray.svg
+  favicon: assets/favicon.png
   features:
+    - header.autohide
     - nagivation.footer
+  palette:
+    # Light mode scheme
+    - scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    # Dark mode scheme
+    - scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
 
 extra:
   social:
