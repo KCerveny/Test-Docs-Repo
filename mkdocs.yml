@@ -5,6 +5,7 @@ nav:
   - Setup: howto.md
 theme:
   name: material
+  logo: assets/arrow_wordmark_gray.svg
   features:
     - nagivation.footer
 

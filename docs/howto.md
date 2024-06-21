@@ -39,3 +39,6 @@ Following the CI tutorial from [MKDocs Material](https://squidfunk.github.io/mkd
 
 ### Implemented
 - [Set up documentation footer](https://squidfunk.github.io/mkdocs-material/setup/setting-up-the-footer/)
+    - Added socials
+- [Changed Logo, Icons](https://squidfunk.github.io/mkdocs-material/setup/changing-the-logo-and-icons/)
+    - Added custom logo
