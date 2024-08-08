@@ -38,6 +38,7 @@ Following the CI tutorial from [MKDocs Material](https://squidfunk.github.io/mkd
     - [Spellcheck Action](https://github.com/marketplace/actions/github-spellcheck-action)
 - Enforce signed contributions?
     - Check if this even works?
+    - Cache pin using Kleopatra
 
 ### Implemented
 - [Set up header preferences](https://squidfunk.github.io/mkdocs-material/setup/setting-up-the-header/)
